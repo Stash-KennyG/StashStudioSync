@@ -1,17 +1,16 @@
 # StashStudioSync
-#StashStudioSync
 An easy way to query a stashbox GQL endpoint and import any unknown studio IDs.
 
-##Requirements
+## Requirements
 PSGraphQL
 PSSQLite
 
-##Config
+## Config
 Update the object at the beginning of the script with 
 - your endpoint URL - defaults to StashDB
 - your endpoint API Key
 - the path of your stash SQLITE 
 
-##Execution
+## Execution
 Just run:
-`./StudioSync.ps1
+` ./StudioSync.ps1

@@ -12,5 +12,6 @@ Update the object at the beginning of the script with
 - your endpoint API Key
 - the path of your stash SQLITE 
 
-==Execution==
-Just run `./StudioSync.ps1
+##Execution
+Just run:
+`./StudioSync.ps1
